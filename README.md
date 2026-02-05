@@ -11,7 +11,7 @@
 
 ## Preview
 
-![DB Viewer Interface](https://raw.githubusercontent.com/thedatascientiist/db-viewer/master/view.png)
+![DB Viewer Interface](https://raw.githubusercontent.com/Jury1981/db-viewer/master/view.png)
 
 ## Why DB Viewer?
 
@@ -217,8 +217,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this extension helpful:
 - ⭐ Rate it on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MJStudio.db-viewer)
-- 🐛 Report bugs on [GitHub Issues](https://github.com/thedatascientiist/db-viewer/issues)
-- 💡 Suggest features on [GitHub Discussions](https://github.com/thedatascientiist/db-viewer/discussions)
+- 🐛 Report bugs on [GitHub Issues](https://github.com/Jury1981/db-viewer/issues)
+- 💡 Suggest features on [GitHub Discussions](https://github.com/Jury1981/db-viewer/discussions)
 
 ---
 
